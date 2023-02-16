@@ -1,2358 +1,2358 @@
 let data = [
   {
-    "scientificName": "Alopias pelagicus",
+    "scientificName": "spp 1",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Alopias superciliosus",
+    "scientificName": "spp 2",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Alopias vulpinus",
+    "scientificName": "spp 3",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Brachaelurus colcloughi",
+    "scientificName": "spp 4",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Brachaelurus waddi",
+    "scientificName": "spp 5",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Callorhinchus callorynchus",
+    "scientificName": "spp 6",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Callorhinchus capensis",
+    "scientificName": "spp 7",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Callorhinchus milii",
+    "scientificName": "spp 8",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus acronotus",
+    "scientificName": "spp 9",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus albimarginatus",
+    "scientificName": "spp 10",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus altimus",
+    "scientificName": "spp 11",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Carcharhinus amblyrhynchoides",
+    "scientificName": "spp 12",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus amblyrhynchos",
+    "scientificName": "spp 13",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus amboinensis",
+    "scientificName": "spp 14",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus borneensis",
+    "scientificName": "spp 15",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus brachyurus",
+    "scientificName": "spp 16",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus brevipinna",
+    "scientificName": "spp 17",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus cautus",
+    "scientificName": "spp 18",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus cerdale",
+    "scientificName": "spp 19",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus coatesi",
+    "scientificName": "spp 20",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus dussumieri",
+    "scientificName": "spp 21",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus falciformis",
+    "scientificName": "spp 22",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus fitzroyensis",
+    "scientificName": "spp 23",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus galapagensis",
+    "scientificName": "spp 24",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus hemiodon",
+    "scientificName": "spp 25",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus humani",
+    "scientificName": "spp 26",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Carcharhinus isodon",
+    "scientificName": "spp 27",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Carcharhinus leiodon",
+    "scientificName": "spp 28",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus leucas",
+    "scientificName": "spp 29",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus limbatus",
+    "scientificName": "spp 30",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus longimanus",
+    "scientificName": "spp 31",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus macloti",
+    "scientificName": "spp 32",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Carcharhinus melanopterus",
+    "scientificName": "spp 33",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus obscurus",
+    "scientificName": "spp 34",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus obsoletus",
+    "scientificName": "spp 35",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus perezi",
+    "scientificName": "spp 36",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus plumbeus",
+    "scientificName": "spp 37",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus porosus",
+    "scientificName": "spp 38",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Carcharhinus sealei",
+    "scientificName": "spp 39",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharhinus signatus",
+    "scientificName": "spp 40",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Carcharhinus sorrah",
+    "scientificName": "spp 41",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Carcharhinus tilstoni",
+    "scientificName": "spp 42",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharhinus tjutjot",
+    "scientificName": "spp 43",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Galeocerdo cuvier",
+    "scientificName": "spp 44",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Glyphis gangeticus",
+    "scientificName": "spp 45",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Glyphis garricki",
+    "scientificName": "spp 46",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Glyphis glyphis",
+    "scientificName": "spp 47",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Isogomphodon oxyrhynchus",
+    "scientificName": "spp 48",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Lamiopsis temminckii",
+    "scientificName": "spp 49",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Lamiopsis tephrodes",
+    "scientificName": "spp 50",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Loxodon macrorhinus",
+    "scientificName": "spp 51",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Nasolamia velox",
+    "scientificName": "spp 52",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Negaprion acutidens",
+    "scientificName": "spp 53",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Negaprion brevirostris",
+    "scientificName": "spp 54",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Prionace glauca",
+    "scientificName": "spp 55",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Rhizoprionodon acutus",
+    "scientificName": "spp 56",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Rhizoprionodon lalandii",
+    "scientificName": "spp 57",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Rhizoprionodon longurio",
+    "scientificName": "spp 58",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Rhizoprionodon oligolinx",
+    "scientificName": "spp 59",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Rhizoprionodon porosus",
+    "scientificName": "spp 60",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Rhizoprionodon taylori",
+    "scientificName": "spp 61",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Rhizoprionodon terraenovae",
+    "scientificName": "spp 62",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scoliodon laticaudus",
+    "scientificName": "spp 63",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Scoliodon macrorhynchos",
+    "scientificName": "spp 64",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Triaenodon obesus",
+    "scientificName": "spp 65",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Centrophorus atromarginatus",
+    "scientificName": "spp 66",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Centrophorus granulosus",
+    "scientificName": "spp 67",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus harrissoni",
+    "scientificName": "spp 68",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus isodon",
+    "scientificName": "spp 69",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus lesliei",
+    "scientificName": "spp 70",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus longipinnis",
+    "scientificName": "spp 71",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus moluccensis",
+    "scientificName": "spp 72",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Centrophorus seychellorum",
+    "scientificName": "spp 73",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centrophorus squamosus",
+    "scientificName": "spp 74",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus tessellatus",
+    "scientificName": "spp 75",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus uyato",
+    "scientificName": "spp 76",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Centrophorus westraliensis",
+    "scientificName": "spp 77",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Deania calcea",
+    "scientificName": "spp 78",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Deania profundorum",
+    "scientificName": "spp 79",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Deania quadrispinosa",
+    "scientificName": "spp 80",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Cetorhinus maximus",
+    "scientificName": "spp 81",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Chimaera argiloba",
+    "scientificName": "spp 82",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera bahamaensis",
+    "scientificName": "spp 83",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera buccanigella",
+    "scientificName": "spp 84",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chimaera carophila",
+    "scientificName": "spp 85",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera cubana",
+    "scientificName": "spp 86",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera didierae",
+    "scientificName": "spp 87",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chimaera fulva",
+    "scientificName": "spp 88",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera jordani",
+    "scientificName": "spp 89",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chimaera lignaria",
+    "scientificName": "spp 90",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera macrospina",
+    "scientificName": "spp 91",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera monstrosa",
+    "scientificName": "spp 92",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Chimaera notafricana",
+    "scientificName": "spp 93",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera obscura",
+    "scientificName": "spp 94",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera ogilbyi",
+    "scientificName": "spp 95",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Chimaera opalescens",
+    "scientificName": "spp 96",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera orientalis",
+    "scientificName": "spp 97",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chimaera owstoni",
+    "scientificName": "spp 98",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chimaera panthera",
+    "scientificName": "spp 99",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chimaera phantasma",
+    "scientificName": "spp 100",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Chimaera willwatchi",
+    "scientificName": "spp 101",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Hydrolagus affinis",
+    "scientificName": "spp 102",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus africanus",
+    "scientificName": "spp 103",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus alberti",
+    "scientificName": "spp 104",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus alphus",
+    "scientificName": "spp 105",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus barbouri",
+    "scientificName": "spp 106",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Hydrolagus bemisi",
+    "scientificName": "spp 107",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus colliei",
+    "scientificName": "spp 108",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus erithacus",
+    "scientificName": "spp 109",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Hydrolagus homonycteris",
+    "scientificName": "spp 110",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus lusitanicus",
+    "scientificName": "spp 111",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus macrophthalmus",
+    "scientificName": "spp 112",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus marmoratus",
+    "scientificName": "spp 113",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus matallanasi",
+    "scientificName": "spp 114",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hydrolagus mccoskeri",
+    "scientificName": "spp 115",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus melanophasma",
+    "scientificName": "spp 116",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus mirabilis",
+    "scientificName": "spp 117",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus mitsukurii",
+    "scientificName": "spp 118",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hydrolagus novaezealandiae",
+    "scientificName": "spp 119",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus pallidus",
+    "scientificName": "spp 120",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus purpurescens",
+    "scientificName": "spp 121",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hydrolagus trolli",
+    "scientificName": "spp 122",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chlamydoselachus africana",
+    "scientificName": "spp 123",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Chlamydoselachus anguineus",
+    "scientificName": "spp 124",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Dalatias licha",
+    "scientificName": "spp 125",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Euprotomicroides zantedeschia",
+    "scientificName": "spp 126",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Euprotomicrus bispinatus",
+    "scientificName": "spp 127",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heteroscymnoides marleyi",
+    "scientificName": "spp 128",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Isistius brasiliensis",
+    "scientificName": "spp 129",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Isistius plutodus",
+    "scientificName": "spp 130",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mollisquama mississippiensis",
+    "scientificName": "spp 131",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mollisquama parini",
+    "scientificName": "spp 132",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squaliolus aliae",
+    "scientificName": "spp 133",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squaliolus laticaudus",
+    "scientificName": "spp 134",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Echinorhinus brucus",
+    "scientificName": "spp 135",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Echinorhinus cookei",
+    "scientificName": "spp 136",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Aculeola nigra",
+    "scientificName": "spp 137",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Centroscyllium excelsum",
+    "scientificName": "spp 138",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Centroscyllium fabricii",
+    "scientificName": "spp 139",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centroscyllium granulatum",
+    "scientificName": "spp 140",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Centroscyllium kamoharai",
+    "scientificName": "spp 141",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centroscyllium nigrum",
+    "scientificName": "spp 142",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centroscyllium ornatum",
+    "scientificName": "spp 143",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centroscyllium ritteri",
+    "scientificName": "spp 144",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus alphus",
+    "scientificName": "spp 145",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus benchleyi",
+    "scientificName": "spp 146",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus bigelowi",
+    "scientificName": "spp 147",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus brachyurus",
+    "scientificName": "spp 148",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Etmopterus bullisi",
+    "scientificName": "spp 149",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus burgessi",
+    "scientificName": "spp 150",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus carteri",
+    "scientificName": "spp 151",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus caudistigmus",
+    "scientificName": "spp 152",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus compagnoi",
+    "scientificName": "spp 153",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus decacuspidatus",
+    "scientificName": "spp 154",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus dianthus",
+    "scientificName": "spp 155",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus dislineatus",
+    "scientificName": "spp 156",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus evansi",
+    "scientificName": "spp 157",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus fusus",
+    "scientificName": "spp 158",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus gracilispinis",
+    "scientificName": "spp 159",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus granulosus",
+    "scientificName": "spp 160",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus hillianus",
+    "scientificName": "spp 161",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus joungi",
+    "scientificName": "spp 162",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus lailae",
+    "scientificName": "spp 163",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Etmopterus litvinovi",
+    "scientificName": "spp 164",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus lucifer",
+    "scientificName": "spp 165",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus marshae",
+    "scientificName": "spp 166",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus molleri",
+    "scientificName": "spp 167",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Etmopterus perryi",
+    "scientificName": "spp 168",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus polli",
+    "scientificName": "spp 169",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus princeps",
+    "scientificName": "spp 170",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus pseudosqualiolus",
+    "scientificName": "spp 171",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus pusillus",
+    "scientificName": "spp 172",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus pycnolepis",
+    "scientificName": "spp 173",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus robinsi",
+    "scientificName": "spp 174",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus samadiae",
+    "scientificName": "spp 175",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus schultzi",
+    "scientificName": "spp 176",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus sculptus",
+    "scientificName": "spp 177",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus sentosus",
+    "scientificName": "spp 178",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus sheikoi",
+    "scientificName": "spp 179",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus spinax",
+    "scientificName": "spp 180",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Etmopterus splendidus",
+    "scientificName": "spp 181",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus unicolor",
+    "scientificName": "spp 182",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Etmopterus viator",
+    "scientificName": "spp 183",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus villosus",
+    "scientificName": "spp 184",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Etmopterus virens",
+    "scientificName": "spp 185",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Trigonognathus kabeyai",
+    "scientificName": "spp 186",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Ginglymostoma cirratum",
+    "scientificName": "spp 187",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Ginglymostoma unami",
+    "scientificName": "spp 188",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Nebrius ferrugineus",
+    "scientificName": "spp 189",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Pseudoginglymostoma brevicaudatum",
+    "scientificName": "spp 190",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Chaenogaleus macrostoma",
+    "scientificName": "spp 191",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemigaleus australiensis",
+    "scientificName": "spp 192",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hemigaleus microstoma",
+    "scientificName": "spp 193",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemipristis elongata",
+    "scientificName": "spp 194",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Paragaleus leucolomatus",
+    "scientificName": "spp 195",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Paragaleus pectoralis",
+    "scientificName": "spp 196",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Paragaleus randalli",
+    "scientificName": "spp 197",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Paragaleus tengi",
+    "scientificName": "spp 198",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Chiloscyllium arabicum",
+    "scientificName": "spp 199",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Chiloscyllium burmensis",
+    "scientificName": "spp 200",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Chiloscyllium caeruleopunctatum",
+    "scientificName": "spp 201",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Chiloscyllium griseum",
+    "scientificName": "spp 202",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Chiloscyllium hasselti",
+    "scientificName": "spp 203",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Chiloscyllium indicum",
+    "scientificName": "spp 204",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Chiloscyllium plagiosum",
+    "scientificName": "spp 205",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Chiloscyllium punctatum",
+    "scientificName": "spp 206",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hemiscyllium freycineti",
+    "scientificName": "spp 207",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hemiscyllium galei",
+    "scientificName": "spp 208",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemiscyllium hallstromi",
+    "scientificName": "spp 209",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemiscyllium halmahera",
+    "scientificName": "spp 210",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hemiscyllium henryi",
+    "scientificName": "spp 211",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemiscyllium michaeli",
+    "scientificName": "spp 212",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemiscyllium ocellatum",
+    "scientificName": "spp 213",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hemiscyllium strahani",
+    "scientificName": "spp 214",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemiscyllium trispeculare",
+    "scientificName": "spp 215",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus francisci",
+    "scientificName": "spp 216",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Heterodontus galeatus",
+    "scientificName": "spp 217",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus japonicus",
+    "scientificName": "spp 218",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus mexicanus",
+    "scientificName": "spp 219",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus omanensis",
+    "scientificName": "spp 220",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Heterodontus portusjacksoni",
+    "scientificName": "spp 221",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus quoyi",
+    "scientificName": "spp 222",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heterodontus ramalheira",
+    "scientificName": "spp 223",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Heterodontus zebra",
+    "scientificName": "spp 224",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Heptranchias perlo",
+    "scientificName": "spp 225",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hexanchus griseus",
+    "scientificName": "spp 226",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hexanchus nakamurai",
+    "scientificName": "spp 227",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Hexanchus vitulus",
+    "scientificName": "spp 228",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Notorynchus cepedianus",
+    "scientificName": "spp 229",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Carcharodon carcharias",
+    "scientificName": "spp 230",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Isurus oxyrinchus",
+    "scientificName": "spp 231",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Isurus paucus",
+    "scientificName": "spp 232",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Lamna ditropis",
+    "scientificName": "spp 233",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Lamna nasus",
+    "scientificName": "spp 234",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Leptocharias smithii",
+    "scientificName": "spp 235",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Megachasma pelagios",
+    "scientificName": "spp 236",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mitsukurina owstoni",
+    "scientificName": "spp 237",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Carcharias taurus",
+    "scientificName": "spp 238",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Odontaspis ferox",
+    "scientificName": "spp 239",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Odontaspis noronhai",
+    "scientificName": "spp 240",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Eucrossorhinus dasypogon",
+    "scientificName": "spp 241",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus floridus",
+    "scientificName": "spp 242",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus halei",
+    "scientificName": "spp 243",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus hutchinsi",
+    "scientificName": "spp 244",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus japonicus",
+    "scientificName": "spp 245",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus leptolineatus",
+    "scientificName": "spp 246",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Orectolobus maculatus",
+    "scientificName": "spp 247",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus ornatus",
+    "scientificName": "spp 248",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus parvimaculatus",
+    "scientificName": "spp 249",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Orectolobus reticulatus",
+    "scientificName": "spp 250",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Orectolobus wardi",
+    "scientificName": "spp 251",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Sutorectus tentaculatus",
+    "scientificName": "spp 252",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Oxynotus bruniensis",
+    "scientificName": "spp 253",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Oxynotus caribbaeus",
+    "scientificName": "spp 254",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Oxynotus centrina",
+    "scientificName": "spp 255",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Oxynotus japonicus",
+    "scientificName": "spp 256",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Oxynotus paradoxus",
+    "scientificName": "spp 257",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Cirrhoscyllium expolitum",
+    "scientificName": "spp 258",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cirrhoscyllium formosanum",
+    "scientificName": "spp 259",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Cirrhoscyllium japonicum",
+    "scientificName": "spp 260",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parascyllium collare",
+    "scientificName": "spp 261",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parascyllium elongatum",
+    "scientificName": "spp 262",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Parascyllium ferrugineum",
+    "scientificName": "spp 263",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parascyllium sparsimaculatum",
+    "scientificName": "spp 264",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Parascyllium variolatum",
+    "scientificName": "spp 265",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus albisoma",
+    "scientificName": "spp 266",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus ampliceps",
+    "scientificName": "spp 267",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus aphyodes",
+    "scientificName": "spp 268",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus australis",
+    "scientificName": "spp 269",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus breviventralis",
+    "scientificName": "spp 270",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus brunneus",
+    "scientificName": "spp 271",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Apristurus bucephalus",
+    "scientificName": "spp 272",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Apristurus canutus",
+    "scientificName": "spp 273",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus exsanguis",
+    "scientificName": "spp 274",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus fedorovi",
+    "scientificName": "spp 275",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus garricki",
+    "scientificName": "spp 276",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus gibbosus",
+    "scientificName": "spp 277",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus herklotsi",
+    "scientificName": "spp 278",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus indicus",
+    "scientificName": "spp 279",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus internatus",
+    "scientificName": "spp 280",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus investigatoris",
+    "scientificName": "spp 281",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus japonicus",
+    "scientificName": "spp 282",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus kampae",
+    "scientificName": "spp 283",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Apristurus laurussonii",
+    "scientificName": "spp 284",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus longicephalus",
+    "scientificName": "spp 285",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus macrorhynchus",
+    "scientificName": "spp 286",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus macrostomus",
+    "scientificName": "spp 287",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus manis",
+    "scientificName": "spp 288",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus melanoasper",
+    "scientificName": "spp 289",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus microps",
+    "scientificName": "spp 290",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus micropterygeus",
+    "scientificName": "spp 291",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus nakayai",
+    "scientificName": "spp 292",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus nasutus",
+    "scientificName": "spp 293",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus parvipinnis",
+    "scientificName": "spp 294",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus pinguis",
+    "scientificName": "spp 295",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus platyrhynchus",
+    "scientificName": "spp 296",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus profundorum",
+    "scientificName": "spp 297",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus riveri",
+    "scientificName": "spp 298",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus saldanha",
+    "scientificName": "spp 299",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus sibogae",
+    "scientificName": "spp 300",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus sinensis",
+    "scientificName": "spp 301",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Apristurus spongiceps",
+    "scientificName": "spp 302",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Apristurus stenseni",
+    "scientificName": "spp 303",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Apristurus yangi",
+    "scientificName": "spp 304",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus analis",
+    "scientificName": "spp 305",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus funebris",
+    "scientificName": "spp 306",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Asymbolus galacticus",
+    "scientificName": "spp 307",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus occiduus",
+    "scientificName": "spp 308",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus pallidus",
+    "scientificName": "spp 309",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus parvus",
+    "scientificName": "spp 310",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus rubiginosus",
+    "scientificName": "spp 311",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus submaculatus",
+    "scientificName": "spp 312",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Asymbolus vincenti",
+    "scientificName": "spp 313",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Bythaelurus alcockii",
+    "scientificName": "spp 314",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus bachi",
+    "scientificName": "spp 315",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus canescens",
+    "scientificName": "spp 316",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Bythaelurus clevai",
+    "scientificName": "spp 317",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus dawsoni",
+    "scientificName": "spp 318",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Bythaelurus giddingsi",
+    "scientificName": "spp 319",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Bythaelurus hispidus",
+    "scientificName": "spp 320",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Bythaelurus immaculatus",
+    "scientificName": "spp 321",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Bythaelurus incanus",
+    "scientificName": "spp 322",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus lutarius",
+    "scientificName": "spp 323",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus naylori",
+    "scientificName": "spp 324",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus stewarti",
+    "scientificName": "spp 325",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Bythaelurus tenuicephalus",
+    "scientificName": "spp 326",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Bythaelurus vivaldii",
+    "scientificName": "spp 327",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cephalurus cephalus",
+    "scientificName": "spp 328",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Figaro boardmani",
+    "scientificName": "spp 329",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Figaro striatus",
+    "scientificName": "spp 330",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Galeus antillensis",
+    "scientificName": "spp 331",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus arae",
+    "scientificName": "spp 332",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus atlanticus",
+    "scientificName": "spp 333",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Galeus cadenati",
+    "scientificName": "spp 334",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus corriganae",
+    "scientificName": "spp 335",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus eastmani",
+    "scientificName": "spp 336",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus gracilis",
+    "scientificName": "spp 337",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Galeus longirostris",
+    "scientificName": "spp 338",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus melastomus",
+    "scientificName": "spp 339",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus mincaronei",
+    "scientificName": "spp 340",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Galeus murinus",
+    "scientificName": "spp 341",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus nipponensis",
+    "scientificName": "spp 342",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus piperatus",
+    "scientificName": "spp 343",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus polli",
+    "scientificName": "spp 344",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Galeus priapus",
+    "scientificName": "spp 345",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus sauteri",
+    "scientificName": "spp 346",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus schultzi",
+    "scientificName": "spp 347",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeus springeri",
+    "scientificName": "spp 348",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Halaelurus boesemani",
+    "scientificName": "spp 349",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Halaelurus buergeri",
+    "scientificName": "spp 350",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Halaelurus lineatus",
+    "scientificName": "spp 351",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Halaelurus maculosus",
+    "scientificName": "spp 352",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Halaelurus natalensis",
+    "scientificName": "spp 353",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Halaelurus quagga",
+    "scientificName": "spp 354",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Halaelurus sellus",
+    "scientificName": "spp 355",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Haploblepharus edwardsii",
+    "scientificName": "spp 356",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Haploblepharus fuscus",
+    "scientificName": "spp 357",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Haploblepharus kistnasamyi",
+    "scientificName": "spp 358",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Haploblepharus pictus",
+    "scientificName": "spp 359",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Holohalaelurus favus",
+    "scientificName": "spp 360",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Holohalaelurus grennian",
+    "scientificName": "spp 361",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Holohalaelurus melanostigma",
+    "scientificName": "spp 362",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Holohalaelurus punctatus",
+    "scientificName": "spp 363",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Holohalaelurus regani",
+    "scientificName": "spp 364",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus albimarginatus",
+    "scientificName": "spp 365",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus albipenis",
+    "scientificName": "spp 366",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus angelae",
+    "scientificName": "spp 367",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Parmaturus bigus",
+    "scientificName": "spp 368",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Parmaturus campechiensis",
+    "scientificName": "spp 369",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus lanatus",
+    "scientificName": "spp 370",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus macmillani",
+    "scientificName": "spp 371",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Parmaturus melanobranchus",
+    "scientificName": "spp 372",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus nigripalatum",
+    "scientificName": "spp 373",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Parmaturus pilosus",
+    "scientificName": "spp 374",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Parmaturus xaniurus",
+    "scientificName": "spp 375",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pentanchus profundicolus",
+    "scientificName": "spp 376",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pliotrema annae",
+    "scientificName": "spp 377",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Pliotrema kajae",
+    "scientificName": "spp 378",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Pliotrema warreni",
+    "scientificName": "spp 379",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus cirratus",
+    "scientificName": "spp 380",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus delicatus",
+    "scientificName": "spp 381",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus japonicus",
+    "scientificName": "spp 382",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus lanae",
+    "scientificName": "spp 383",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Pristiophorus nancyae",
+    "scientificName": "spp 384",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus nudipinnis",
+    "scientificName": "spp 385",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pristiophorus schroederi",
+    "scientificName": "spp 386",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Ctenacis fehlmanni",
+    "scientificName": "spp 387",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Eridacnis barbouri",
+    "scientificName": "spp 388",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Eridacnis radcliffei",
+    "scientificName": "spp 389",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Eridacnis sinuans",
+    "scientificName": "spp 390",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Proscyllium habereri",
+    "scientificName": "spp 391",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Proscyllium magnificum",
+    "scientificName": "spp 392",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Pseudocarcharias kamoharai",
+    "scientificName": "spp 393",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Gollum attenuatus",
+    "scientificName": "spp 394",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Gollum suluensis",
+    "scientificName": "spp 395",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Planonasus indicus",
+    "scientificName": "spp 396",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Planonasus parini",
+    "scientificName": "spp 397",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Pseudotriakis microdon",
+    "scientificName": "spp 398",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Rhincodon typus",
+    "scientificName": "spp 399",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Harriotta haeckeli",
+    "scientificName": "spp 400",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Harriotta raleighana",
+    "scientificName": "spp 401",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Neoharriotta carri",
+    "scientificName": "spp 402",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Neoharriotta pinnata",
+    "scientificName": "spp 403",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Neoharriotta pumila",
+    "scientificName": "spp 404",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Rhinochimaera africana",
+    "scientificName": "spp 405",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Rhinochimaera atlantica",
+    "scientificName": "spp 406",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Rhinochimaera pacifica",
+    "scientificName": "spp 407",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Akheilos suwartanai",
+    "scientificName": "spp 408",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Atelomycterus baliensis",
+    "scientificName": "spp 409",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Atelomycterus erdmanni",
+    "scientificName": "spp 410",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Atelomycterus fasciatus",
+    "scientificName": "spp 411",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Atelomycterus macleayi",
+    "scientificName": "spp 412",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Atelomycterus marmoratus",
+    "scientificName": "spp 413",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Atelomycterus marnkalha",
+    "scientificName": "spp 414",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Aulohalaelurus kanakorum",
+    "scientificName": "spp 415",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Aulohalaelurus labiosus",
+    "scientificName": "spp 416",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium albipinnum",
+    "scientificName": "spp 417",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Cephaloscyllium cooki",
+    "scientificName": "spp 418",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cephaloscyllium fasciatum",
+    "scientificName": "spp 419",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Cephaloscyllium formosanum",
+    "scientificName": "spp 420",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium hiscosellum",
+    "scientificName": "spp 421",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium isabellum",
+    "scientificName": "spp 422",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium laticeps",
+    "scientificName": "spp 423",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium pictum",
+    "scientificName": "spp 424",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cephaloscyllium sarawakensis",
+    "scientificName": "spp 425",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Cephaloscyllium signourum",
+    "scientificName": "spp 426",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cephaloscyllium silasi",
+    "scientificName": "spp 427",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Cephaloscyllium speccum",
+    "scientificName": "spp 428",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cephaloscyllium stevensi",
+    "scientificName": "spp 429",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium sufflans",
+    "scientificName": "spp 430",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Cephaloscyllium umbratile",
+    "scientificName": "spp 431",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Cephaloscyllium variegatum",
+    "scientificName": "spp 432",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Cephaloscyllium ventriosum",
+    "scientificName": "spp 433",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Cephaloscyllium zebrum",
+    "scientificName": "spp 434",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Poroderma africanum",
+    "scientificName": "spp 435",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Poroderma pantherinum",
+    "scientificName": "spp 436",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Schroederichthys bivius",
+    "scientificName": "spp 437",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Schroederichthys chilensis",
+    "scientificName": "spp 438",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Schroederichthys maculatus",
+    "scientificName": "spp 439",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Schroederichthys saurisqualus",
+    "scientificName": "spp 440",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Schroederichthys tenuis",
+    "scientificName": "spp 441",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus boa",
+    "scientificName": "spp 442",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus cabofriensis",
+    "scientificName": "spp 443",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus canicula",
+    "scientificName": "spp 444",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus capensis",
+    "scientificName": "spp 445",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Scyliorhinus cervigoni",
+    "scientificName": "spp 446",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scyliorhinus comoroensis",
+    "scientificName": "spp 447",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scyliorhinus garmani",
+    "scientificName": "spp 448",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scyliorhinus haeckelii",
+    "scientificName": "spp 449",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scyliorhinus hesperius",
+    "scientificName": "spp 450",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus meadi",
+    "scientificName": "spp 451",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus retifer",
+    "scientificName": "spp 452",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus stellaris",
+    "scientificName": "spp 453",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Scyliorhinus torazame",
+    "scientificName": "spp 454",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus torrei",
+    "scientificName": "spp 455",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scyliorhinus ugoi",
+    "scientificName": "spp 456",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Centroscymnus coelolepis",
+    "scientificName": "spp 457",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Centroscymnus macracanthus",
+    "scientificName": "spp 458",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Centroscymnus owstonii",
+    "scientificName": "spp 459",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Centroselachus crepidater",
+    "scientificName": "spp 460",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Scymnodalatias albicauda",
+    "scientificName": "spp 461",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scymnodalatias garricki",
+    "scientificName": "spp 462",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scymnodalatias oligodon",
+    "scientificName": "spp 463",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Scymnodalatias sherwoodi",
+    "scientificName": "spp 464",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Scymnodon ichiharai",
+    "scientificName": "spp 465",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Scymnodon plunketi",
+    "scientificName": "spp 466",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Scymnodon ringens",
+    "scientificName": "spp 467",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Somniosus antarcticus",
+    "scientificName": "spp 468",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Somniosus longus",
+    "scientificName": "spp 469",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Somniosus microcephalus",
+    "scientificName": "spp 470",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Somniosus pacificus",
+    "scientificName": "spp 471",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Somniosus rostratus",
+    "scientificName": "spp 472",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Zameus squamulosus",
+    "scientificName": "spp 473",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Eusphyra blochii",
+    "scientificName": "spp 474",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Sphyrna corona",
+    "scientificName": "spp 475",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Sphyrna gilberti",
+    "scientificName": "spp 476",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Sphyrna lewini",
+    "scientificName": "spp 477",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Sphyrna media",
+    "scientificName": "spp 478",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Sphyrna mokarran",
+    "scientificName": "spp 479",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Sphyrna tiburo",
+    "scientificName": "spp 480",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Sphyrna tudes",
+    "scientificName": "spp 481",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Sphyrna zygaena",
+    "scientificName": "spp 482",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Cirrhigaleus asper",
+    "scientificName": "spp 483",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cirrhigaleus australis",
+    "scientificName": "spp 484",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Cirrhigaleus barbifer",
+    "scientificName": "spp 485",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus acanthias",
+    "scientificName": "spp 486",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Squalus acutipinnis",
+    "scientificName": "spp 487",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus albicaudus",
+    "scientificName": "spp 488",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus albifrons",
+    "scientificName": "spp 489",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus altipinnis",
+    "scientificName": "spp 490",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus bahiensis",
+    "scientificName": "spp 491",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus bassi",
+    "scientificName": "spp 492",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus blainville",
+    "scientificName": "spp 493",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus boretzi",
+    "scientificName": "spp 494",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus brevirostris",
+    "scientificName": "spp 495",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squalus bucephalus",
+    "scientificName": "spp 496",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus chloroculus",
+    "scientificName": "spp 497",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squalus clarkae",
+    "scientificName": "spp 498",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus crassispinus",
+    "scientificName": "spp 499",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus cubensis",
+    "scientificName": "spp 500",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus edmundsi",
+    "scientificName": "spp 501",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus formosus",
+    "scientificName": "spp 502",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squalus grahami",
+    "scientificName": "spp 503",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus griffini",
+    "scientificName": "spp 504",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus hawaiiensis",
+    "scientificName": "spp 505",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus hemipinnis",
+    "scientificName": "spp 506",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Squalus japonicus",
+    "scientificName": "spp 507",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squalus lalannei",
+    "scientificName": "spp 508",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus lobularis",
+    "scientificName": "spp 509",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus mahia",
+    "scientificName": "spp 510",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus margaretsmithae",
+    "scientificName": "spp 511",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus megalops",
+    "scientificName": "spp 512",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus melanurus",
+    "scientificName": "spp 513",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus mitsukurii",
+    "scientificName": "spp 514",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squalus montalbani",
+    "scientificName": "spp 515",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Squalus nasutus",
+    "scientificName": "spp 516",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus notocaudatus",
+    "scientificName": "spp 517",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus quasimodo",
+    "scientificName": "spp 518",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squalus rancureli",
+    "scientificName": "spp 519",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squalus raoulensis",
+    "scientificName": "spp 520",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squalus suckleyi",
+    "scientificName": "spp 521",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squatina aculeata",
+    "scientificName": "spp 522",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina africana",
+    "scientificName": "spp 523",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squatina albipunctata",
+    "scientificName": "spp 524",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Squatina argentina",
+    "scientificName": "spp 525",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina armata",
+    "scientificName": "spp 526",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina australis",
+    "scientificName": "spp 527",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squatina caillieti",
+    "scientificName": "spp 528",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Squatina californica",
+    "scientificName": "spp 529",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squatina david",
+    "scientificName": "spp 530",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Squatina dumeril",
+    "scientificName": "spp 531",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squatina formosa",
+    "scientificName": "spp 532",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squatina guggenheim",
+    "scientificName": "spp 533",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squatina japonica",
+    "scientificName": "spp 534",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina legnota",
+    "scientificName": "spp 535",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina nebulosa",
+    "scientificName": "spp 536",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squatina occulta",
+    "scientificName": "spp 537",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina oculata",
+    "scientificName": "spp 538",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina pseudocellata",
+    "scientificName": "spp 539",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squatina squatina",
+    "scientificName": "spp 540",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Squatina tergocellata",
+    "scientificName": "spp 541",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Squatina tergocellatoides",
+    "scientificName": "spp 542",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Squatina varii",
+    "scientificName": "spp 543",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Stegostoma tigrinum",
+    "scientificName": "spp 544",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Furgaleus macki",
+    "scientificName": "spp 545",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Galeorhinus galeus",
+    "scientificName": "spp 546",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Gogolia filewoodi",
+    "scientificName": "spp 547",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Hemitriakis abdita",
+    "scientificName": "spp 548",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Hemitriakis complicofasciata",
+    "scientificName": "spp 549",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Hemitriakis falcata",
+    "scientificName": "spp 550",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Hemitriakis indroyonoi",
+    "scientificName": "spp 551",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Hemitriakis japanica",
+    "scientificName": "spp 552",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Hemitriakis leucoperiptera",
+    "scientificName": "spp 553",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Hypogaleus hyugaensis",
+    "scientificName": "spp 554",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Iago garricki",
+    "scientificName": "spp 555",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Iago omanensis",
+    "scientificName": "spp 556",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus albipinnis",
+    "scientificName": "spp 557",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus antarcticus",
+    "scientificName": "spp 558",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus asterias",
+    "scientificName": "spp 559",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Mustelus californicus",
+    "scientificName": "spp 560",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus canis",
+    "scientificName": "spp 561",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Mustelus dorsalis",
+    "scientificName": "spp 562",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Mustelus fasciatus",
+    "scientificName": "spp 563",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Mustelus griseus",
+    "scientificName": "spp 564",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Mustelus henlei",
+    "scientificName": "spp 565",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus higmani",
+    "scientificName": "spp 566",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Mustelus lenticulatus",
+    "scientificName": "spp 567",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus lunulatus",
+    "scientificName": "spp 568",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus manazo",
+    "scientificName": "spp 569",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Mustelus mento",
+    "scientificName": "spp 570",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Mustelus minicanis",
+    "scientificName": "spp 571",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Mustelus mosis",
+    "scientificName": "spp 572",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Mustelus mustelus",
+    "scientificName": "spp 573",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Mustelus norrisi",
+    "scientificName": "spp 574",
     "redlistCategory": "Near Threatened"
   },
   {
-    "scientificName": "Mustelus palumbes",
+    "scientificName": "spp 575",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus punctulatus",
+    "scientificName": "spp 576",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Mustelus ravidus",
+    "scientificName": "spp 577",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus schmitti",
+    "scientificName": "spp 578",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Mustelus sinusmexicanus",
+    "scientificName": "spp 579",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus stevensi",
+    "scientificName": "spp 580",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Mustelus walkeri",
+    "scientificName": "spp 581",
     "redlistCategory": "Data Deficient"
   },
   {
-    "scientificName": "Mustelus whitneyi",
+    "scientificName": "spp 582",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Mustelus widodoi",
+    "scientificName": "spp 583",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Scylliogaleus quecketti",
+    "scientificName": "spp 584",
     "redlistCategory": "Vulnerable"
   },
   {
-    "scientificName": "Triakis acutipinna",
+    "scientificName": "spp 585",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Triakis maculata",
+    "scientificName": "spp 586",
     "redlistCategory": "Critically Endangered"
   },
   {
-    "scientificName": "Triakis megalopterus",
+    "scientificName": "spp 587",
     "redlistCategory": "Least Concern"
   },
   {
-    "scientificName": "Triakis scyllium",
+    "scientificName": "spp 588",
     "redlistCategory": "Endangered"
   },
   {
-    "scientificName": "Triakis semifasciata",
+    "scientificName": "spp 589",
     "redlistCategory": "Least Concern"
   }
 ]

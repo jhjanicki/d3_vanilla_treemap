@@ -27,8 +27,7 @@ const treemap = d3.treemap()
     .size([length, length])
     .tile(d3.treemapResquarify.ratio(2));
 
-const root = treemap(hierarchyData);
-const leaves = root.leaves().sort(function (a, b) { return b.data[0] - a.data[0]; });
+const leaves = treemap(hierarchyData).leaves().sort(function (a, b) { return b.data[0] - a.data[0]; });
 
 //create SVG
 const svg = d3.select("#chart").append("svg").attr("width", length).attr("height", length);
