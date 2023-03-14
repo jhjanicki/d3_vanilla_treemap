@@ -27,31 +27,26 @@ const treemap = d3.treemap()
     .size([length, length])
     .tile(d3.treemapResquarify.ratio(2));
 
-const leaves = treemap(hierarchyData).leaves().sort(function (a, b) { return b.data[0] - a.data[0]; });
+const leaves = treemap(hierarchyData).leaves().sort( (a, b) => b.data[0] - a.data[0]);
 
 //create SVG
 const svg = d3.select("#chart").append("svg").attr("width", length).attr("height", length);
 
 //draw rects
-svg.selectAll("rect.rect")
+svg.selectAll("rect")
     .data(leaves)
     .join("rect")
-    .attr("class", "rect")
     .attr("transform", d => "translate(" + d.x0 + "," + d.y0 + ")")
     .attr("width", d => d.x1 - d.x0)
     .attr("height", d => d.y1 - d.y0)
     .attr("stroke-width", 0.5)
     .attr("stroke", "white")
-    .attr("fill", d => colorScale(d.data[0]))
-    .attr("opacity", 1);
+    .attr("opacity", 1)
+    .attr("fill", d => colorScale(d.data[0]));
 
-svg.selectAll("text.text")
+svg.selectAll("text")
     .data(leaves)
     .join("text")
-    .attr("class", "text")
     .attr("x", d => d.x0 + 3)
     .attr("y", d => d.y0 + 15)
-    .attr("font-size", 14)
-    .attr("fill", "black")
-    .attr("font-weight", 700)
     .text(d => `${d.data[0]}: ${d.value}`)
