@@ -1,3 +1,5 @@
+// all variables related to dimensions
+const length = 750;
 
 //legend data and color scale
 const legendData = [{ "category": "Critically Endangered", "color": "#b30000" }, { "category": "Endangered", "color": "#e34a33" }, { "category": "Vulnerable", "color": "#fc8d59" }, { "category": "Near Threatened", "color": "#fdbb84" }, { "category": "Least Concern", "color": "#fdd49e" }, { "category": "Data Deficient", "color": "#d9d9d9" }];
@@ -14,9 +16,6 @@ const rollupData = d3.rollup(data, v => v.length, ...groupingFn);
 const childrenAccessorFn = ([key, value]) => value.size && Array.from(value);
 const hierarchyData = d3.hierarchy(rollupData, childrenAccessorFn)
     .sum(([key, value]) => value);
-
-// all variables related to dimensions
-const length = 750;
 
 // Layout + data prep
 const treemap = d3.treemap()
